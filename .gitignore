@@ -32,3 +32,6 @@ build/
 
 ### Archivo de configuracion ###
 src/main/resources/application.yml
+
+### Mac ###
+src/main/.DS_Store
